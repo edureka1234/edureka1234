@@ -26,12 +26,9 @@ view: sales_dailyevents_custom_link {
     sql: ${TABLE}.time ;;
   }
 
-  dimension: won {
-    type: string
-    sql: ${TABLE}.won ;;
-  }
 
-  measure: count {
+
+  measure: salescount {
     type: count
     drill_fields: []
   }
