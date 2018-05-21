@@ -1,5 +1,5 @@
 view: assesment_questions {
-  sql_table_name: edureka-prod.assesment_questions ;;
+  sql_table_name: `edureka-prod`.assesment_questions ;;
 
   dimension: id {
     primary_key: yes

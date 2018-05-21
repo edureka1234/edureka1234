@@ -1,5 +1,5 @@
 view: batch_feedback_summaries {
-  sql_table_name: edureka-prod.batch_feedback_summaries ;;
+  sql_table_name: `edureka-prod`.batch_feedback_summaries ;;
 
   dimension: id {
     primary_key: yes

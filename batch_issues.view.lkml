@@ -1,5 +1,5 @@
 view: batch_issues {
-  sql_table_name: edureka-prod.batch_issues ;;
+  sql_table_name: `edureka-prod`.batch_issues ;;
 
   dimension: id {
     primary_key: yes

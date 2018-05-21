@@ -1,5 +1,5 @@
 view: activities_new {
-  sql_table_name: edureka-prod.activities_new ;;
+  sql_table_name: `edureka-prod`.activities_new ;;
 
   dimension: id {
     primary_key: yes

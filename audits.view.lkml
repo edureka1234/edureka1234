@@ -1,5 +1,5 @@
 view: audits {
-  sql_table_name: edureka-prod.audits ;;
+  sql_table_name: `edureka-prod`.audits ;;
 
   dimension: id {
     primary_key: yes

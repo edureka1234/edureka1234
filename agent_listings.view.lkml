@@ -1,5 +1,5 @@
 view: agent_listings {
-  sql_table_name: edureka-prod.agent_listings ;;
+  sql_table_name: `edureka-prod`.agent_listings ;;
 
   dimension: id {
     primary_key: yes

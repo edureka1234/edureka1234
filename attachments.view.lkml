@@ -1,5 +1,5 @@
 view: attachments {
-  sql_table_name: edureka-prod.attachments ;;
+  sql_table_name: `edureka-prod`.attachments ;;
 
   dimension: id {
     primary_key: yes

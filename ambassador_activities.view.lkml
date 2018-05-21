@@ -1,5 +1,5 @@
 view: ambassador_activities {
-  sql_table_name: edureka-prod.ambassador_activities ;;
+  sql_table_name: `edureka-prod`.ambassador_activities ;;
 
   dimension: id {
     primary_key: yes

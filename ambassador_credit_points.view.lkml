@@ -1,5 +1,5 @@
 view: ambassador_credit_points {
-  sql_table_name: edureka-prod.ambassador_credit_points ;;
+  sql_table_name: `edureka-prod`.ambassador_credit_points ;;
 
   dimension: id {
     primary_key: yes

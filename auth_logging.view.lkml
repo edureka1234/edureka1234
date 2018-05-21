@@ -1,5 +1,5 @@
 view: auth_logging {
-  sql_table_name: edureka-prod.auth_logging ;;
+  sql_table_name: `edureka-prod`.auth_logging ;;
 
   dimension: id {
     primary_key: yes
