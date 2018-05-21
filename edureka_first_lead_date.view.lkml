@@ -1,5 +1,5 @@
 view: edureka_first_lead_date {
-  sql_table_name: edureka-prod.edureka_first_lead_date ;;
+  sql_table_name: `edureka-prod`.edureka_first_lead_date ;;
 
   dimension_group: first_lead {
     type: time

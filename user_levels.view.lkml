@@ -1,5 +1,5 @@
 view: user_levels {
-  sql_table_name: edureka-prod.user_levels ;;
+  sql_table_name: `edureka-prod`.user_levels ;;
 
   dimension: id {
     primary_key: yes

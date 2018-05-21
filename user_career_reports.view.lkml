@@ -1,5 +1,5 @@
 view: user_career_reports {
-  sql_table_name: edureka-prod.user_career_reports ;;
+  sql_table_name: `edureka-prod`.user_career_reports ;;
 
   dimension: id {
     primary_key: yes

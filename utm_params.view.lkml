@@ -1,5 +1,5 @@
 view: utm_params {
-  sql_table_name: edureka-prod.utm_params ;;
+  sql_table_name: `edureka-prod`.utm_params ;;
 
   dimension: id {
     primary_key: yes

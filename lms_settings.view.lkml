@@ -1,5 +1,5 @@
 view: lms_settings {
-  sql_table_name: edureka-prod.lms_settings ;;
+  sql_table_name: `edureka-prod`.lms_settings ;;
 
   dimension_group: created {
     type: time

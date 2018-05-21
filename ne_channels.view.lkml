@@ -1,5 +1,5 @@
 view: ne_channels {
-  sql_table_name: edureka-prod.ne_channels ;;
+  sql_table_name: `edureka-prod`.ne_channels ;;
 
   dimension: id {
     primary_key: yes

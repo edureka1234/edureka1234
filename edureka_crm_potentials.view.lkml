@@ -1,5 +1,5 @@
 view: edureka_crm_potentials {
-  sql_table_name: edureka-prod.edureka_crm_potentials ;;
+  sql_table_name: `edureka-prod`.edureka_crm_potentials ;;
 
   dimension: is_phone_lead {
     type: string

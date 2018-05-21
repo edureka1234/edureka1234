@@ -1,5 +1,5 @@
 view: seopages {
-  sql_table_name: edureka-prod.seopages ;;
+  sql_table_name: `edureka-prod`.seopages ;;
 
   dimension: id {
     primary_key: yes

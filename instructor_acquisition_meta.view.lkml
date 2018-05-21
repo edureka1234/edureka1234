@@ -1,5 +1,5 @@
 view: instructor_acquisition_meta {
-  sql_table_name: edureka-prod.instructor_acquisition_meta ;;
+  sql_table_name: `edureka-prod`.instructor_acquisition_meta ;;
 
   dimension: id {
     primary_key: yes

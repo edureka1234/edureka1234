@@ -1,5 +1,5 @@
 view: invoices {
-  sql_table_name: edureka-prod.invoices ;;
+  sql_table_name: `edureka-prod`.invoices ;;
 
   dimension: id {
     primary_key: yes

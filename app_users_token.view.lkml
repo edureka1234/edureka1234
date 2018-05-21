@@ -1,5 +1,5 @@
 view: app_users_token {
-  sql_table_name: `edureka-prod`.app_users_token ;;
+  sql_table_name: ``edureka-prod``.app_users_token ;;
 
   dimension: id {
     primary_key: yes

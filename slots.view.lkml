@@ -1,5 +1,5 @@
 view: slots {
-  sql_table_name: edureka-prod.slots ;;
+  sql_table_name: `edureka-prod`.slots ;;
 
   dimension: id {
     primary_key: yes

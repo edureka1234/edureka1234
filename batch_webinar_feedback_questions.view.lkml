@@ -1,5 +1,5 @@
 view: batch_webinar_feedback_questions {
-  sql_table_name: edureka-prod.batch_webinar_feedback_questions ;;
+  sql_table_name: `edureka-prod`.batch_webinar_feedback_questions ;;
 
   dimension: id {
     primary_key: yes

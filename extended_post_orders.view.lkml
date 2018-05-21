@@ -1,5 +1,5 @@
 view: extended_post_orders {
-  sql_table_name: edureka-prod.extended_post_orders ;;
+  sql_table_name: `edureka-prod`.extended_post_orders ;;
 
   dimension: id {
     primary_key: yes

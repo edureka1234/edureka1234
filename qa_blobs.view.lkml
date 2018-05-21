@@ -1,5 +1,5 @@
 view: qa_blobs {
-  sql_table_name: edureka-prod.qa_blobs ;;
+  sql_table_name: `edureka-prod`.qa_blobs ;;
 
   dimension: blobid {
     type: number

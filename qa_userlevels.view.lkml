@@ -1,5 +1,5 @@
 view: qa_userlevels {
-  sql_table_name: edureka-prod.qa_userlevels ;;
+  sql_table_name: `edureka-prod`.qa_userlevels ;;
 
   dimension: entityid {
     type: number

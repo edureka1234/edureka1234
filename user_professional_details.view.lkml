@@ -1,5 +1,5 @@
 view: user_professional_details {
-  sql_table_name: edureka-prod.user_professional_details ;;
+  sql_table_name: `edureka-prod`.user_professional_details ;;
 
   dimension: id {
     primary_key: yes

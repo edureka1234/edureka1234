@@ -1,5 +1,5 @@
 view: ne_triggers {
-  sql_table_name: edureka-prod.ne_triggers ;;
+  sql_table_name: `edureka-prod`.ne_triggers ;;
 
   dimension: id {
     primary_key: yes

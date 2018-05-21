@@ -1,5 +1,5 @@
 view: batch_discounts {
-  sql_table_name: `edureka-prod`.batch_discounts ;;
+  sql_table_name: ``edureka-prod``.batch_discounts ;;
 
   dimension: id {
     primary_key: yes

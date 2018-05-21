@@ -1,5 +1,5 @@
 view: groups {
-  sql_table_name: edureka-prod.groups ;;
+  sql_table_name: `edureka-prod`.groups ;;
 
   dimension: id {
     primary_key: yes

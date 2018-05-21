@@ -1,5 +1,5 @@
 view: career_admin_report_view {
-  sql_table_name: edureka-prod.career_admin_report_view ;;
+  sql_table_name: `edureka-prod`.career_admin_report_view ;;
 
   dimension: analytics_title {
     type: string

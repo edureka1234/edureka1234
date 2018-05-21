@@ -1,5 +1,5 @@
 view: user_cloud_enablers {
-  sql_table_name: edureka-prod.user_cloud_enablers ;;
+  sql_table_name: `edureka-prod`.user_cloud_enablers ;;
 
   dimension: id {
     primary_key: yes

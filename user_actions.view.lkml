@@ -1,5 +1,5 @@
 view: user_actions {
-  sql_table_name: edureka-prod.user_actions ;;
+  sql_table_name: `edureka-prod`.user_actions ;;
 
   dimension_group: created {
     type: time

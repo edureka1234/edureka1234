@@ -56,7 +56,7 @@ view: sales_dailyevents_calls {
     sql: ${TABLE}.time ;;
   }
 
-  measure: count {
+  measure: eventscount {
     type: count
     drill_fields: []
   }

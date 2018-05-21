@@ -1,5 +1,5 @@
 view: lead_potentials {
-  sql_table_name: edureka-prod.lead_potentials ;;
+  sql_table_name: `edureka-prod`.lead_potentials ;;
 
   dimension: id {
     primary_key: yes

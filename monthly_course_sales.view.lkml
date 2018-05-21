@@ -1,5 +1,5 @@
 view: monthly_course_sales {
-  sql_table_name: edureka-prod.monthly_course_sales ;;
+  sql_table_name: `edureka-prod`.monthly_course_sales ;;
 
   dimension: id {
     primary_key: yes

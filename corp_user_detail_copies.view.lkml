@@ -1,5 +1,5 @@
 view: corp_user_detail_copies {
-  sql_table_name: edureka-prod.corp_user_detail_copies ;;
+  sql_table_name: `edureka-prod`.corp_user_detail_copies ;;
 
   dimension: id {
     primary_key: yes

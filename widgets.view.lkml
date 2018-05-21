@@ -1,5 +1,5 @@
 view: widgets {
-  sql_table_name: edureka-prod.widgets ;;
+  sql_table_name: `edureka-prod`.widgets ;;
 
   dimension: id {
     primary_key: yes

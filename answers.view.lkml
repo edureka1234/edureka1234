@@ -1,5 +1,5 @@
 view: answers {
-  sql_table_name: `edureka-prod`.answers ;;
+  sql_table_name: ``edureka-prod``.answers ;;
 
   dimension: id {
     primary_key: yes

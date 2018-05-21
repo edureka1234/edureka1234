@@ -1,5 +1,5 @@
 view: user_lead_mappings {
-  sql_table_name: edureka-prod.user_lead_mappings ;;
+  sql_table_name: `edureka-prod`.user_lead_mappings ;;
 
   dimension: id {
     primary_key: yes

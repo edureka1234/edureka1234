@@ -1,5 +1,5 @@
 view: certificate_mappings {
-  sql_table_name: edureka-prod.certificate_mappings ;;
+  sql_table_name: `edureka-prod`.certificate_mappings ;;
 
   dimension: id {
     primary_key: yes

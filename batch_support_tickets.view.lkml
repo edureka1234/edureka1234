@@ -1,5 +1,5 @@
 view: batch_support_tickets {
-  sql_table_name: edureka-prod.batch_support_tickets ;;
+  sql_table_name: `edureka-prod`.batch_support_tickets ;;
 
   dimension: id {
     primary_key: yes

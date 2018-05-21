@@ -1,5 +1,5 @@
 view: qa_userfavorites {
-  sql_table_name: edureka-prod.qa_userfavorites ;;
+  sql_table_name: `edureka-prod`.qa_userfavorites ;;
 
   dimension: entityid {
     type: number

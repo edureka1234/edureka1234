@@ -1,5 +1,5 @@
 view: certificates {
-  sql_table_name: edureka-prod.certificates ;;
+  sql_table_name: `edureka-prod`.certificates ;;
 
   dimension: id {
     primary_key: yes

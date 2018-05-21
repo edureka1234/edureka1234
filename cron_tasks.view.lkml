@@ -1,5 +1,5 @@
 view: cron_tasks {
-  sql_table_name: edureka-prod.cron_tasks ;;
+  sql_table_name: `edureka-prod`.cron_tasks ;;
 
   dimension: id {
     primary_key: yes

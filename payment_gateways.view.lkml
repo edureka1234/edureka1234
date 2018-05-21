@@ -1,5 +1,5 @@
 view: payment_gateways {
-  sql_table_name: edureka-prod.payment_gateways ;;
+  sql_table_name: `edureka-prod`.payment_gateways ;;
 
   dimension: id {
     primary_key: yes

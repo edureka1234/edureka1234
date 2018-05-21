@@ -1,5 +1,5 @@
 view: batch_webinar_absents {
-  sql_table_name: edureka-prod.batch_webinar_absents ;;
+  sql_table_name: `edureka-prod`.batch_webinar_absents ;;
 
   dimension: id {
     primary_key: yes

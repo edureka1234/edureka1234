@@ -1,5 +1,5 @@
 view: mailalerts {
-  sql_table_name: edureka-prod.mailalerts ;;
+  sql_table_name: `edureka-prod`.mailalerts ;;
 
   dimension: id {
     primary_key: yes

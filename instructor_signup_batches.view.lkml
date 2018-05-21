@@ -1,5 +1,5 @@
 view: instructor_signup_batches {
-  sql_table_name: edureka-prod.instructor_signup_batches ;;
+  sql_table_name: `edureka-prod`.instructor_signup_batches ;;
 
   dimension: id {
     primary_key: yes

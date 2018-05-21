@@ -1,5 +1,5 @@
 view: qa_iplimits {
-  sql_table_name: edureka-prod.qa_iplimits ;;
+  sql_table_name: `edureka-prod`.qa_iplimits ;;
 
   dimension: action {
     type: string

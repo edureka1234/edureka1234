@@ -1,5 +1,5 @@
 view: ne_trigger_channels {
-  sql_table_name: edureka-prod.ne_trigger_channels ;;
+  sql_table_name: `edureka-prod`.ne_trigger_channels ;;
 
   dimension: id {
     primary_key: yes

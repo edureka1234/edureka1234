@@ -1,5 +1,5 @@
 view: crm_leads {
-  sql_table_name: edureka-prod.crm_leads ;;
+  sql_table_name: `edureka-prod`.crm_leads ;;
 
   dimension: id {
     primary_key: yes

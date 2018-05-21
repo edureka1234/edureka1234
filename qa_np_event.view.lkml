@@ -1,5 +1,5 @@
 view: qa_np_event {
-  sql_table_name: edureka-prod.qa_np_event ;;
+  sql_table_name: `edureka-prod`.qa_np_event ;;
 
   dimension: cookieid {
     type: number

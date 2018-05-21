@@ -1,5 +1,5 @@
 view: dynamic_slugs {
-  sql_table_name: edureka-prod.dynamic_slugs ;;
+  sql_table_name: `edureka-prod`.dynamic_slugs ;;
 
   dimension: id {
     primary_key: yes

@@ -1,5 +1,5 @@
 view: qa_cookies {
-  sql_table_name: edureka-prod.qa_cookies ;;
+  sql_table_name: `edureka-prod`.qa_cookies ;;
 
   dimension: cookieid {
     type: number

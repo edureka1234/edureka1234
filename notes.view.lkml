@@ -1,5 +1,5 @@
 view: notes {
-  sql_table_name: edureka-prod.notes ;;
+  sql_table_name: `edureka-prod`.notes ;;
 
   dimension: id {
     primary_key: yes

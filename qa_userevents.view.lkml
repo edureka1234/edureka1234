@@ -1,5 +1,5 @@
 view: qa_userevents {
-  sql_table_name: edureka-prod.qa_userevents ;;
+  sql_table_name: `edureka-prod`.qa_userevents ;;
 
   dimension: entityid {
     type: number

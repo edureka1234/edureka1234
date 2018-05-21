@@ -1,5 +1,5 @@
 view: lms_queue_jobs {
-  sql_table_name: edureka-prod.lms_queue_jobs ;;
+  sql_table_name: `edureka-prod`.lms_queue_jobs ;;
 
   dimension: id {
     primary_key: yes

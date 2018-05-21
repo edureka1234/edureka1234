@@ -1,5 +1,5 @@
 view: business_units {
-  sql_table_name: edureka-prod.business_units ;;
+  sql_table_name: `edureka-prod`.business_units ;;
 
   dimension: id {
     primary_key: yes

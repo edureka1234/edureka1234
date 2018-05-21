@@ -1,5 +1,5 @@
 view: content_repositories_bkp_20180321 {
-  sql_table_name: edureka-prod.content_repositories_bkp_20180321 ;;
+  sql_table_name: `edureka-prod`.content_repositories_bkp_20180321 ;;
 
   dimension: id {
     primary_key: yes

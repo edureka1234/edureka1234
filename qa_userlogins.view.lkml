@@ -1,5 +1,5 @@
 view: qa_userlogins {
-  sql_table_name: edureka-prod.qa_userlogins ;;
+  sql_table_name: `edureka-prod`.qa_userlogins ;;
 
   dimension: identifier {
     type: string

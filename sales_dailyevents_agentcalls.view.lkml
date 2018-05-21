@@ -31,7 +31,7 @@ view: sales_dailyevents_agentcalls {
     sql: ${TABLE}.time ;;
   }
 
-  measure: count {
+  measure: callscount {
     type: count
     drill_fields: []
   }

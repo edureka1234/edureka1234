@@ -1,5 +1,5 @@
 view: newsletters {
-  sql_table_name: edureka-prod.newsletters ;;
+  sql_table_name: `edureka-prod`.newsletters ;;
 
   dimension: id {
     primary_key: yes

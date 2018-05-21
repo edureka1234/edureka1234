@@ -1,5 +1,5 @@
 view: qa_userlimits {
-  sql_table_name: edureka-prod.qa_userlimits ;;
+  sql_table_name: `edureka-prod`.qa_userlimits ;;
 
   dimension: action {
     type: string

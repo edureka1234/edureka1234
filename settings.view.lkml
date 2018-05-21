@@ -1,5 +1,5 @@
 view: settings {
-  sql_table_name: edureka-prod.settings ;;
+  sql_table_name: `edureka-prod`.settings ;;
 
   dimension: id {
     primary_key: yes

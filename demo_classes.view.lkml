@@ -1,5 +1,5 @@
 view: demo_classes {
-  sql_table_name: edureka-prod.demo_classes ;;
+  sql_table_name: `edureka-prod`.demo_classes ;;
 
   dimension: id {
     primary_key: yes

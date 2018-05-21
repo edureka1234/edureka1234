@@ -1,5 +1,5 @@
 view: error_logs {
-  sql_table_name: edureka-prod.error_logs ;;
+  sql_table_name: `edureka-prod`.error_logs ;;
 
   dimension: id {
     primary_key: yes

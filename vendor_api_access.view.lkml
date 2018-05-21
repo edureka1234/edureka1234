@@ -1,5 +1,5 @@
 view: vendor_api_access {
-  sql_table_name: edureka-prod.vendor_api_access ;;
+  sql_table_name: `edureka-prod`.vendor_api_access ;;
 
   dimension: id {
     primary_key: yes

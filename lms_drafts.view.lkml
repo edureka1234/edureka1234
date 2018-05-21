@@ -1,5 +1,5 @@
 view: lms_drafts {
-  sql_table_name: edureka-prod.lms_drafts ;;
+  sql_table_name: `edureka-prod`.lms_drafts ;;
 
   dimension: id {
     primary_key: yes

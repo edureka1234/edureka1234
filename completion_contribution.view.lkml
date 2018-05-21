@@ -1,5 +1,5 @@
 view: completion_contribution {
-  sql_table_name: edureka-prod.completion_contribution ;;
+  sql_table_name: `edureka-prod`.completion_contribution ;;
 
   dimension: id {
     primary_key: yes

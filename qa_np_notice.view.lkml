@@ -1,5 +1,5 @@
 view: qa_np_notice {
-  sql_table_name: edureka-prod.qa_np_notice ;;
+  sql_table_name: `edureka-prod`.qa_np_notice ;;
 
   dimension_group: created {
     type: time

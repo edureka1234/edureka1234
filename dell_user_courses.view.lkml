@@ -1,5 +1,5 @@
 view: dell_user_courses {
-  sql_table_name: edureka-prod.dell_user_courses ;;
+  sql_table_name: `edureka-prod`.dell_user_courses ;;
 
   dimension: id {
     primary_key: yes

@@ -1,5 +1,5 @@
 view: sales_users_timings {
-  sql_table_name: edureka-prod.sales_users_timings ;;
+  sql_table_name: `edureka-prod`.sales_users_timings ;;
 
   dimension: day_id {
     type: string

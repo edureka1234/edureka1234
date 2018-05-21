@@ -1,5 +1,5 @@
 view: self_nomination_histories {
-  sql_table_name: edureka-prod.self_nomination_histories ;;
+  sql_table_name: `edureka-prod`.self_nomination_histories ;;
 
   dimension: id {
     primary_key: yes

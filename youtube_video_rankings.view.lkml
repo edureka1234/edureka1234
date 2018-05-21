@@ -1,5 +1,5 @@
 view: youtube_video_rankings {
-  sql_table_name: edureka-prod.youtube_video_rankings ;;
+  sql_table_name: `edureka-prod`.youtube_video_rankings ;;
 
   dimension: id {
     primary_key: yes

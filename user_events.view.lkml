@@ -1,5 +1,5 @@
 view: user_events {
-  sql_table_name: edureka-prod.user_events ;;
+  sql_table_name: `edureka-prod`.user_events ;;
 
   dimension: id {
     primary_key: yes

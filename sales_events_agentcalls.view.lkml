@@ -26,7 +26,7 @@ view: sales_events_agentcalls {
     sql: ${TABLE}.time ;;
   }
 
-  measure: count {
+  measure: acallscount {
     type: count
     drill_fields: []
   }

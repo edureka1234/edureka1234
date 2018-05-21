@@ -1,5 +1,5 @@
 view: related_courses {
-  sql_table_name: edureka-prod.related_courses ;;
+  sql_table_name: `edureka-prod`.related_courses ;;
 
   dimension: id {
     primary_key: yes

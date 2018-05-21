@@ -1,5 +1,5 @@
 view: instructor_bulk_uploads {
-  sql_table_name: edureka-prod.instructor_bulk_uploads ;;
+  sql_table_name: `edureka-prod`.instructor_bulk_uploads ;;
 
   dimension: id {
     primary_key: yes

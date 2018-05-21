@@ -1,5 +1,5 @@
 view: quiz_timings {
-  sql_table_name: edureka-prod.quiz_timings ;;
+  sql_table_name: `edureka-prod`.quiz_timings ;;
 
   dimension: id {
     primary_key: yes

@@ -1,5 +1,5 @@
 view: log_params {
-  sql_table_name: edureka-prod.log_params ;;
+  sql_table_name: `edureka-prod`.log_params ;;
 
   dimension: id {
     primary_key: yes

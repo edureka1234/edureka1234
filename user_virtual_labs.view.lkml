@@ -1,5 +1,5 @@
 view: user_virtual_labs {
-  sql_table_name: edureka-prod.user_virtual_labs ;;
+  sql_table_name: `edureka-prod`.user_virtual_labs ;;
 
   dimension: id {
     primary_key: yes

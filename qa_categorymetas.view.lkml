@@ -1,5 +1,5 @@
 view: qa_categorymetas {
-  sql_table_name: edureka-prod.qa_categorymetas ;;
+  sql_table_name: `edureka-prod`.qa_categorymetas ;;
 
   dimension: categoryid {
     type: number

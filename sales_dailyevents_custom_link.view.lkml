@@ -31,7 +31,7 @@ view: sales_dailyevents_custom_link {
     sql: ${TABLE}.won ;;
   }
 
-  measure: count {
+  measure: linkcount {
     type: count
     drill_fields: []
   }

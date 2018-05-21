@@ -1,5 +1,5 @@
 view: referral_transactions {
-  sql_table_name: edureka-prod.referral_transactions ;;
+  sql_table_name: `edureka-prod`.referral_transactions ;;
 
   dimension: id {
     primary_key: yes

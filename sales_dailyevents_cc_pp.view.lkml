@@ -26,7 +26,7 @@ view: sales_dailyevents_cc_pp {
     sql: ${TABLE}.time ;;
   }
 
-  measure: count {
+  measure: cc_ppcount {
     type: count
     drill_fields: []
   }

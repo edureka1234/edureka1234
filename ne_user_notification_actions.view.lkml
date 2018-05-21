@@ -1,5 +1,5 @@
 view: ne_user_notification_actions {
-  sql_table_name: edureka-prod.ne_user_notification_actions ;;
+  sql_table_name: `edureka-prod`.ne_user_notification_actions ;;
 
   dimension: id {
     primary_key: yes

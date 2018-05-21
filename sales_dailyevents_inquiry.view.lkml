@@ -41,7 +41,7 @@ view: sales_dailyevents_inquiry {
     sql: ${TABLE}.type ;;
   }
 
-  measure: count {
+  measure: inquirycount {
     type: count
     drill_fields: []
   }

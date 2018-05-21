@@ -1,5 +1,5 @@
 view: user_question_details_view {
-  sql_table_name: edureka-prod.user_question_details_view ;;
+  sql_table_name: `edureka-prod`.user_question_details_view ;;
 
   dimension_group: created {
     type: time

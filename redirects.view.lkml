@@ -1,5 +1,5 @@
 view: redirects {
-  sql_table_name: edureka-prod.redirects ;;
+  sql_table_name: `edureka-prod`.redirects ;;
 
   dimension: id {
     primary_key: yes

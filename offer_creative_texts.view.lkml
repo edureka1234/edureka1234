@@ -1,5 +1,5 @@
 view: offer_creative_texts {
-  sql_table_name: edureka-prod.offer_creative_texts ;;
+  sql_table_name: `edureka-prod`.offer_creative_texts ;;
 
   dimension: id {
     primary_key: yes

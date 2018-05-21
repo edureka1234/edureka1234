@@ -1,5 +1,5 @@
 view: payment_plans {
-  sql_table_name: edureka-prod.payment_plans ;;
+  sql_table_name: `edureka-prod`.payment_plans ;;
 
   dimension: id {
     primary_key: yes

@@ -1,5 +1,5 @@
 view: customer_records {
-  sql_table_name: edureka-prod.customer_records ;;
+  sql_table_name: `edureka-prod`.customer_records ;;
 
   dimension: id {
     primary_key: yes

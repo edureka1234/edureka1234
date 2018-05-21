@@ -1,5 +1,5 @@
 view: ambassador_referral_clicks {
-  sql_table_name: `edureka-prod`.ambassador_referral_clicks ;;
+  sql_table_name: ``edureka-prod``.ambassador_referral_clicks ;;
 
   dimension: id {
     primary_key: yes

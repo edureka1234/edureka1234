@@ -1,5 +1,5 @@
 view: corp_usercourses_libraries {
-  sql_table_name: edureka-prod.corp_usercourses_libraries ;;
+  sql_table_name: `edureka-prod`.corp_usercourses_libraries ;;
 
   dimension: id {
     primary_key: yes

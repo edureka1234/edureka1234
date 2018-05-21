@@ -1,5 +1,5 @@
 view: qa_uservotes {
-  sql_table_name: edureka-prod.qa_uservotes ;;
+  sql_table_name: `edureka-prod`.qa_uservotes ;;
 
   dimension: flag {
     type: yesno

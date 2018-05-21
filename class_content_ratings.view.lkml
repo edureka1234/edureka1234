@@ -1,5 +1,5 @@
 view: class_content_ratings {
-  sql_table_name: edureka-prod.class_content_ratings ;;
+  sql_table_name: `edureka-prod`.class_content_ratings ;;
 
   dimension: id {
     primary_key: yes

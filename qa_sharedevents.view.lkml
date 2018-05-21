@@ -1,5 +1,5 @@
 view: qa_sharedevents {
-  sql_table_name: edureka-prod.qa_sharedevents ;;
+  sql_table_name: `edureka-prod`.qa_sharedevents ;;
 
   dimension: entityid {
     type: number

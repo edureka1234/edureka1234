@@ -1,5 +1,5 @@
 view: lms_content_meta {
-  sql_table_name: edureka-prod.lms_content_meta ;;
+  sql_table_name: `edureka-prod`.lms_content_meta ;;
 
   dimension: id {
     primary_key: yes

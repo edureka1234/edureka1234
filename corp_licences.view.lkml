@@ -1,5 +1,5 @@
 view: corp_licences {
-  sql_table_name: edureka-prod.corp_licences ;;
+  sql_table_name: `edureka-prod`.corp_licences ;;
 
   dimension: id {
     primary_key: yes

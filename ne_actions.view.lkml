@@ -1,5 +1,5 @@
 view: ne_actions {
-  sql_table_name: edureka-prod.ne_actions ;;
+  sql_table_name: `edureka-prod`.ne_actions ;;
 
   dimension: id {
     primary_key: yes

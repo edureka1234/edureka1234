@@ -1,5 +1,5 @@
 view: qa_titlewords {
-  sql_table_name: edureka-prod.qa_titlewords ;;
+  sql_table_name: `edureka-prod`.qa_titlewords ;;
 
   dimension: postid {
     type: number

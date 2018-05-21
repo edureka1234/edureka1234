@@ -1,5 +1,5 @@
 view: mobile_screens {
-  sql_table_name: edureka-prod.mobile_screens ;;
+  sql_table_name: `edureka-prod`.mobile_screens ;;
 
   dimension: id {
     primary_key: yes

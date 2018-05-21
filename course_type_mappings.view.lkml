@@ -1,5 +1,5 @@
 view: course_type_mappings {
-  sql_table_name: edureka-prod.course_type_mappings ;;
+  sql_table_name: `edureka-prod`.course_type_mappings ;;
 
   dimension: id {
     primary_key: yes

@@ -1,5 +1,5 @@
 view: instructor_acquisition_ongoing_reviews {
-  sql_table_name: edureka-prod.instructor_acquisition_ongoing_reviews ;;
+  sql_table_name: `edureka-prod`.instructor_acquisition_ongoing_reviews ;;
 
   dimension: id {
     primary_key: yes

@@ -1,5 +1,5 @@
 view: qa_words {
-  sql_table_name: edureka-prod.qa_words ;;
+  sql_table_name: `edureka-prod`.qa_words ;;
 
   dimension: contentcount {
     type: number

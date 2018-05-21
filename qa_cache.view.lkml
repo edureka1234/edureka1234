@@ -1,5 +1,5 @@
 view: qa_cache {
-  sql_table_name: edureka-prod.qa_cache ;;
+  sql_table_name: `edureka-prod`.qa_cache ;;
 
   dimension: cacheid {
     type: number

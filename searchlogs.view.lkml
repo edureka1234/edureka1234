@@ -1,5 +1,5 @@
 view: searchlogs {
-  sql_table_name: edureka-prod.searchlogs ;;
+  sql_table_name: `edureka-prod`.searchlogs ;;
 
   dimension: id {
     primary_key: yes

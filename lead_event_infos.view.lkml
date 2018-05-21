@@ -1,5 +1,5 @@
 view: lead_event_infos {
-  sql_table_name: edureka-prod.lead_event_infos ;;
+  sql_table_name: `edureka-prod`.lead_event_infos ;;
 
   dimension: id {
     primary_key: yes

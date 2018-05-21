@@ -1,5 +1,5 @@
 view: qa_posttags {
-  sql_table_name: edureka-prod.qa_posttags ;;
+  sql_table_name: `edureka-prod`.qa_posttags ;;
 
   dimension_group: postcreated {
     type: time

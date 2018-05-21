@@ -1,5 +1,5 @@
 view: referral_in_use {
-  sql_table_name: edureka-prod.referral_in_use ;;
+  sql_table_name: `edureka-prod`.referral_in_use ;;
 
   dimension: id {
     primary_key: yes

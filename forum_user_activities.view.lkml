@@ -1,5 +1,5 @@
 view: forum_user_activities {
-  sql_table_name: edureka-prod.forum_user_activities ;;
+  sql_table_name: `edureka-prod`.forum_user_activities ;;
 
   dimension: id {
     primary_key: yes

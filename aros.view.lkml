@@ -1,5 +1,5 @@
 view: aros {
-  sql_table_name: `edureka-prod`.aros ;;
+  sql_table_name: ``edureka-prod``.aros ;;
 
   dimension: id {
     primary_key: yes

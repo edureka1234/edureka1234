@@ -1,5 +1,5 @@
 view: user_course_module_backups {
-  sql_table_name: edureka-prod.user_course_module_backups ;;
+  sql_table_name: `edureka-prod`.user_course_module_backups ;;
 
   dimension: id {
     primary_key: yes

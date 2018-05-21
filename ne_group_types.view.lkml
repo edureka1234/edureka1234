@@ -1,5 +1,5 @@
 view: ne_group_types {
-  sql_table_name: edureka-prod.ne_group_types ;;
+  sql_table_name: `edureka-prod`.ne_group_types ;;
 
   dimension: id {
     primary_key: yes

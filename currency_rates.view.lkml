@@ -1,5 +1,5 @@
 view: currency_rates {
-  sql_table_name: edureka-prod.currency_rates ;;
+  sql_table_name: `edureka-prod`.currency_rates ;;
 
   dimension: id {
     primary_key: yes

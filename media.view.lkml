@@ -1,5 +1,5 @@
 view: media {
-  sql_table_name: edureka-prod.media ;;
+  sql_table_name: `edureka-prod`.media ;;
 
   dimension: id {
     primary_key: yes

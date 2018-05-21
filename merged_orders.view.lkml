@@ -1,5 +1,5 @@
 view: merged_orders {
-  sql_table_name: edureka-prod.merged_orders ;;
+  sql_table_name: `edureka-prod`.merged_orders ;;
 
   dimension: ambassador_flag {
     type: number

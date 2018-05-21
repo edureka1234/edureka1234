@@ -1,5 +1,5 @@
 view: learning_manager_requests {
-  sql_table_name: edureka-prod.learning_manager_requests ;;
+  sql_table_name: `edureka-prod`.learning_manager_requests ;;
 
   dimension: id {
     primary_key: yes

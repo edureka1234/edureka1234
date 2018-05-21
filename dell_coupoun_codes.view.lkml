@@ -1,5 +1,5 @@
 view: dell_coupoun_codes {
-  sql_table_name: edureka-prod.dell_coupoun_codes ;;
+  sql_table_name: `edureka-prod`.dell_coupoun_codes ;;
 
   dimension: id {
     primary_key: yes

@@ -1,5 +1,5 @@
 view: corp_payments {
-  sql_table_name: edureka-prod.corp_payments ;;
+  sql_table_name: `edureka-prod`.corp_payments ;;
 
   dimension: id {
     primary_key: yes

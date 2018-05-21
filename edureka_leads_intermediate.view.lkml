@@ -1,5 +1,5 @@
 view: edureka_leads_intermediate {
-  sql_table_name: edureka-prod.edureka_leads_intermediate ;;
+  sql_table_name: `edureka-prod`.edureka_leads_intermediate ;;
 
   dimension: campaign_content {
     type: string

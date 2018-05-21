@@ -1,5 +1,5 @@
 view: offer_user_groups {
-  sql_table_name: edureka-prod.offer_user_groups ;;
+  sql_table_name: `edureka-prod`.offer_user_groups ;;
 
   dimension: id {
     primary_key: yes

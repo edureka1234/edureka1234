@@ -1,5 +1,5 @@
 view: rds_test {
-  sql_table_name: edureka-prod.rds_test ;;
+  sql_table_name: `edureka-prod`.rds_test ;;
 
   dimension: id {
     primary_key: yes

@@ -1,5 +1,5 @@
 view: applications {
-  sql_table_name: `edureka-prod`.applications ;;
+  sql_table_name: ``edureka-prod``.applications ;;
 
   dimension: id {
     primary_key: yes

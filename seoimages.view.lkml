@@ -1,5 +1,5 @@
 view: seoimages {
-  sql_table_name: edureka-prod.seoimages ;;
+  sql_table_name: `edureka-prod`.seoimages ;;
 
   dimension: caption {
     type: string

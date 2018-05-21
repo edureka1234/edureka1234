@@ -1,5 +1,5 @@
 view: customer_cycles {
-  sql_table_name: edureka-prod.customer_cycles ;;
+  sql_table_name: `edureka-prod`.customer_cycles ;;
 
   dimension: id {
     primary_key: yes

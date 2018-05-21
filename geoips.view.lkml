@@ -1,5 +1,5 @@
 view: geoips {
-  sql_table_name: edureka-prod.geoips ;;
+  sql_table_name: `edureka-prod`.geoips ;;
 
   dimension: city_name {
     type: string

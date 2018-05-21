@@ -1,5 +1,5 @@
 view: qa_np_mail {
-  sql_table_name: edureka-prod.qa_np_mail ;;
+  sql_table_name: `edureka-prod`.qa_np_mail ;;
 
   dimension: body {
     type: string

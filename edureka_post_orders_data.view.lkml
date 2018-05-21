@@ -1,5 +1,5 @@
 view: edureka_post_orders_data {
-  sql_table_name: edureka-prod.edureka_post_orders_data ;;
+  sql_table_name: `edureka-prod`.edureka_post_orders_data ;;
 
   dimension: course_group {
     type: number

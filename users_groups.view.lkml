@@ -1,5 +1,5 @@
 view: users_groups {
-  sql_table_name: edureka-prod.users_groups ;;
+  sql_table_name: `edureka-prod`.users_groups ;;
 
   dimension: group_id {
     type: number

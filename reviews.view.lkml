@@ -1,5 +1,5 @@
 view: reviews {
-  sql_table_name: edureka-prod.reviews ;;
+  sql_table_name: `edureka-prod`.reviews ;;
 
   dimension: id {
     primary_key: yes

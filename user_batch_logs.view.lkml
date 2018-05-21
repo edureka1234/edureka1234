@@ -1,5 +1,5 @@
 view: user_batch_logs {
-  sql_table_name: edureka-prod.user_batch_logs ;;
+  sql_table_name: `edureka-prod`.user_batch_logs ;;
 
   dimension: id {
     primary_key: yes

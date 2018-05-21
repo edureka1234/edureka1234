@@ -1,5 +1,5 @@
 view: acos {
-  sql_table_name: `edureka-prod`.acos ;;
+  sql_table_name: ``edureka-prod``.acos ;;
 
   dimension: id {
     primary_key: yes

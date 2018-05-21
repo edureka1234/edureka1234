@@ -1,5 +1,5 @@
 view: cities {
-  sql_table_name: edureka-prod.cities ;;
+  sql_table_name: `edureka-prod`.cities ;;
 
   dimension: id {
     primary_key: yes

@@ -1,5 +1,5 @@
 view: activity_summaries_updates {
-  sql_table_name: `edureka-prod`.activity_summaries_updates ;;
+  sql_table_name: ``edureka-prod``.activity_summaries_updates ;;
 
   dimension: id {
     primary_key: yes

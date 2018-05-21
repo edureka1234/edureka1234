@@ -1,5 +1,5 @@
 view: agent_status_mappings {
-  sql_table_name: `edureka-prod`.agent_status_mappings ;;
+  sql_table_name: ``edureka-prod``.agent_status_mappings ;;
 
   dimension: id {
     primary_key: yes

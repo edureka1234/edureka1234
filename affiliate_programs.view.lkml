@@ -1,5 +1,5 @@
 view: affiliate_programs {
-  sql_table_name: `edureka-prod`.affiliate_programs ;;
+  sql_table_name: ``edureka-prod``.affiliate_programs ;;
 
   dimension: id {
     primary_key: yes

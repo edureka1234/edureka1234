@@ -1,5 +1,5 @@
 view: job_openings {
-  sql_table_name: edureka-prod.job_openings ;;
+  sql_table_name: `edureka-prod`.job_openings ;;
 
   dimension: id {
     primary_key: yes

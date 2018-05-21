@@ -1,5 +1,5 @@
 view: library {
-  sql_table_name: edureka-prod.library ;;
+  sql_table_name: `edureka-prod`.library ;;
 
   dimension: id {
     primary_key: yes

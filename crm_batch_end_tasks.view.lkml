@@ -1,5 +1,5 @@
 view: crm_batch_end_tasks {
-  sql_table_name: edureka-prod.crm_batch_end_tasks ;;
+  sql_table_name: `edureka-prod`.crm_batch_end_tasks ;;
 
   dimension: id {
     primary_key: yes

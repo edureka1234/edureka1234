@@ -1,5 +1,5 @@
 view: states_list {
-  sql_table_name: edureka-prod.states_list ;;
+  sql_table_name: `edureka-prod`.states_list ;;
 
   dimension: id {
     primary_key: yes

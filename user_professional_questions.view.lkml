@@ -1,5 +1,5 @@
 view: user_professional_questions {
-  sql_table_name: edureka-prod.user_professional_questions ;;
+  sql_table_name: `edureka-prod`.user_professional_questions ;;
 
   dimension: id {
     primary_key: yes

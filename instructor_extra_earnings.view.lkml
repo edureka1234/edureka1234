@@ -1,5 +1,5 @@
 view: instructor_extra_earnings {
-  sql_table_name: edureka-prod.instructor_extra_earnings ;;
+  sql_table_name: `edureka-prod`.instructor_extra_earnings ;;
 
   dimension: id {
     primary_key: yes

@@ -1,5 +1,5 @@
 view: countries {
-  sql_table_name: edureka-prod.countries ;;
+  sql_table_name: `edureka-prod`.countries ;;
 
   dimension: id {
     primary_key: yes

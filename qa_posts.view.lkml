@@ -1,5 +1,5 @@
 view: qa_posts {
-  sql_table_name: edureka-prod.qa_posts ;;
+  sql_table_name: `edureka-prod`.qa_posts ;;
 
   dimension: acount {
     type: number

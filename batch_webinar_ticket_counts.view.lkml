@@ -1,5 +1,5 @@
 view: batch_webinar_ticket_counts {
-  sql_table_name: edureka-prod.batch_webinar_ticket_counts ;;
+  sql_table_name: `edureka-prod`.batch_webinar_ticket_counts ;;
 
   dimension: id {
     primary_key: yes

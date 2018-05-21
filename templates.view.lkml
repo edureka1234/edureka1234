@@ -1,5 +1,5 @@
 view: templates {
-  sql_table_name: edureka-prod.templates ;;
+  sql_table_name: `edureka-prod`.templates ;;
 
   dimension: id {
     primary_key: yes

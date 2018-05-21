@@ -1,5 +1,5 @@
 view: batch_report_permissions {
-  sql_table_name: edureka-prod.batch_report_permissions ;;
+  sql_table_name: `edureka-prod`.batch_report_permissions ;;
 
   dimension: id {
     primary_key: yes

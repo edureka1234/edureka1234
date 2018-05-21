@@ -1,5 +1,5 @@
 view: qa_userprofile {
-  sql_table_name: edureka-prod.qa_userprofile ;;
+  sql_table_name: `edureka-prod`.qa_userprofile ;;
 
   dimension: content {
     type: string

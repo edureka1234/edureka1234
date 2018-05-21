@@ -1,5 +1,5 @@
 view: gotowebinar_accounts {
-  sql_table_name: edureka-prod.gotowebinar_accounts ;;
+  sql_table_name: `edureka-prod`.gotowebinar_accounts ;;
 
   dimension: id {
     primary_key: yes

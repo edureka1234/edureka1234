@@ -1,5 +1,5 @@
 view: action_views {
-  sql_table_name: `edureka-prod`.action_views ;;
+  sql_table_name: ``edureka-prod``.action_views ;;
 
   dimension: id {
     primary_key: yes

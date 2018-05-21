@@ -1,5 +1,5 @@
 view: users {
-  sql_table_name: edureka-prod.users ;;
+  sql_table_name: `edureka-prod`.users ;;
 
   dimension: id {
     primary_key: yes

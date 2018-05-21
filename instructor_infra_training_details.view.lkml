@@ -1,5 +1,5 @@
 view: instructor_infra_training_details {
-  sql_table_name: edureka-prod.instructor_infra_training_details ;;
+  sql_table_name: `edureka-prod`.instructor_infra_training_details ;;
 
   dimension: id {
     primary_key: yes

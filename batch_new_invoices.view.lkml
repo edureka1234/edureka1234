@@ -1,5 +1,5 @@
 view: batch_new_invoices {
-  sql_table_name: edureka-prod.batch_new_invoices ;;
+  sql_table_name: `edureka-prod`.batch_new_invoices ;;
 
   dimension: id {
     primary_key: yes

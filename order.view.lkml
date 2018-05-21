@@ -1,5 +1,5 @@
 view: order {
-  sql_table_name: edureka-prod.`order` ;;
+  sql_table_name: `edureka-prod`.`order` ;;
 
   dimension: order_id {
     primary_key: yes

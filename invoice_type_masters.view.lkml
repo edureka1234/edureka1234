@@ -1,5 +1,5 @@
 view: invoice_type_masters {
-  sql_table_name: edureka-prod.invoice_type_masters ;;
+  sql_table_name: `edureka-prod`.invoice_type_masters ;;
 
   dimension: id {
     primary_key: yes

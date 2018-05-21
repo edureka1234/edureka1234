@@ -1,5 +1,5 @@
 view: content_repositories {
-  sql_table_name: edureka-prod.content_repositories ;;
+  sql_table_name: `edureka-prod`.content_repositories ;;
 
   dimension: id {
     primary_key: yes

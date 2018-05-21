@@ -1,5 +1,5 @@
 view: offer_children {
-  sql_table_name: edureka-prod.offer_children ;;
+  sql_table_name: `edureka-prod`.offer_children ;;
 
   dimension: id {
     primary_key: yes

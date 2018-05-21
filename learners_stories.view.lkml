@@ -1,5 +1,5 @@
 view: learners_stories {
-  sql_table_name: edureka-prod.learners_stories ;;
+  sql_table_name: `edureka-prod`.learners_stories ;;
 
   dimension: id {
     primary_key: yes

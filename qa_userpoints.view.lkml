@@ -1,5 +1,5 @@
 view: qa_userpoints {
-  sql_table_name: edureka-prod.qa_userpoints ;;
+  sql_table_name: `edureka-prod`.qa_userpoints ;;
 
   dimension: adownvotes {
     type: number

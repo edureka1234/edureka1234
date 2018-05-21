@@ -1,5 +1,5 @@
 view: post_job {
-  sql_table_name: edureka-prod.post_job ;;
+  sql_table_name: `edureka-prod`.post_job ;;
 
   dimension: c_p_email {
     type: string

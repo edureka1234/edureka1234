@@ -1,5 +1,5 @@
 view: qa_categories {
-  sql_table_name: edureka-prod.qa_categories ;;
+  sql_table_name: `edureka-prod`.qa_categories ;;
 
   dimension: backpath {
     type: string

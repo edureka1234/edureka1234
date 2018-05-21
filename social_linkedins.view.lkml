@@ -1,5 +1,5 @@
 view: social_linkedins {
-  sql_table_name: edureka-prod.social_linkedins ;;
+  sql_table_name: `edureka-prod`.social_linkedins ;;
 
   dimension: id {
     primary_key: yes

@@ -1,5 +1,5 @@
 view: support_agents {
-  sql_table_name: edureka-prod.support_agents ;;
+  sql_table_name: `edureka-prod`.support_agents ;;
 
   dimension: id {
     primary_key: yes

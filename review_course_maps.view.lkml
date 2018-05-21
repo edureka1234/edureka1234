@@ -1,5 +1,5 @@
 view: review_course_maps {
-  sql_table_name: edureka-prod.review_course_maps ;;
+  sql_table_name: `edureka-prod`.review_course_maps ;;
 
   dimension: id {
     primary_key: yes

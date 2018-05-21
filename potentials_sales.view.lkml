@@ -1,5 +1,5 @@
 view: potentials_sales {
-  sql_table_name: edureka-prod.potentials_sales ;;
+  sql_table_name: `edureka-prod`.potentials_sales ;;
 
   dimension: cc_count {
     type: number

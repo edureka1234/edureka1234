@@ -1,5 +1,5 @@
 view: freshdesk {
-  sql_table_name: edureka-prod.freshdesk ;;
+  sql_table_name: `edureka-prod`.freshdesk ;;
 
   dimension: id {
     primary_key: yes

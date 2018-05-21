@@ -1,5 +1,5 @@
 view: customer_class_mappings {
-  sql_table_name: edureka-prod.customer_class_mappings ;;
+  sql_table_name: `edureka-prod`.customer_class_mappings ;;
 
   dimension: id {
     primary_key: yes

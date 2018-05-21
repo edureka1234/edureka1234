@@ -1,5 +1,5 @@
 view: offer_batches {
-  sql_table_name: edureka-prod.offer_batches ;;
+  sql_table_name: `edureka-prod`.offer_batches ;;
 
   dimension: id {
     primary_key: yes

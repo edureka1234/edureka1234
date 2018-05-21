@@ -1,5 +1,5 @@
 view: wistia_media {
-  sql_table_name: edureka-prod.wistia_media ;;
+  sql_table_name: `edureka-prod`.wistia_media ;;
 
   dimension: id {
     primary_key: yes

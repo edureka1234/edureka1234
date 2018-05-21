@@ -1,5 +1,5 @@
 view: knowlarity_call_logs {
-  sql_table_name: edureka-prod.knowlarity_call_logs ;;
+  sql_table_name: `edureka-prod`.knowlarity_call_logs ;;
 
   dimension: id {
     primary_key: yes
