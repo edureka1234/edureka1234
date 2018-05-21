@@ -26,13 +26,7 @@ view: sales_dailyevents_custom_link {
     sql: ${TABLE}.time ;;
   }
 
-  dimension: won {
-    type: number
-    sql: ${TABLE}.won ;;
-  }
 
-  measure: linkcount {
-    type: count
-    drill_fields: []
-  }
+
+
 }
