@@ -232,4 +232,12 @@ view: post_orders {
       extended_post_orders.count
     ]
   }
+  measure: total_revenue {
+    type: sum
+    sql: ${final_value} ;;
+  }
+  measure: average_ticket_size {
+    type: number
+    sql: ${total_revenue}/${count} ;;
+  }
 }
