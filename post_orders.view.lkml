@@ -235,6 +235,7 @@ view: post_orders {
   measure: total_revenue {
     type: sum
     sql: ${final_value} ;;
+    drill_fields: [detail*]
   }
   measure: average_ticket_size {
     type: number
