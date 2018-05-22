@@ -135,4 +135,9 @@ view: revenue_gmv_dashboard {
     type: count
     drill_fields: []
   }
+  measure: revenue_total {
+    type: sum
+    sql: ${total_revenue} ;;
+    drill_fields: []
+  }
 }
