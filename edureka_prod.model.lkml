@@ -3211,6 +3211,13 @@ explore: user_leads {
     sql_on: ${offers.corporate_accounts_id} = ${corporate_accounts.id} ;;
     relationship: many_to_one
   }
+
+  join: utm_params {
+    type: inner
+    sql_on: ${utm_params.lead_id} = ${user_leads.id} ;;
+    relationship: many_to_one
+  }
+
 }
 
 explore: user_levels {}
